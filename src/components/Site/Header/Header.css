@@ -1,0 +1,26 @@
+.site__header__nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 15px;
+}
+
+.site__header__nav__link {
+  text-decoration: none;
+  color: white;
+}
+
+.site__header__nav__logo {
+  display: flex;
+}
+
+.site__header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #3e60e4;
+  color: white;
+}
+
+.site__header p {
+  font-size: 30px;
+}
